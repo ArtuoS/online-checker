@@ -1,0 +1,6 @@
+http://www.google.com
+http://www.yahoo.com
+http://www.github.com
+http://www.gitlab.com
+http://www.benner.com.br
+http://www.site-aleatorio.com

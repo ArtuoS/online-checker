@@ -1,0 +1,6 @@
+http://www.google.com is online
+http://www.yahoo.com is online
+http://www.github.com is online
+http://www.gitlab.com is online
+http://www.benner.com.br is online
+http://www.site-aleatorio.com is offline
